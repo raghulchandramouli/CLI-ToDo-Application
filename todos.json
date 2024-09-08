@@ -12,15 +12,21 @@
       "CompletedAt": null
    },
    {
-      "Title": "Buy milk",
-      "Completed": false,
+      "Title": ":Go for a walk",
+      "Completed": true,
       "CreatedAt": "2024-09-07T23:19:14.9894873+05:30",
-      "CompletedAt": null
+      "CompletedAt": "2024-09-08T12:57:07.8906144+05:30"
    },
    {
       "Title": "Buy bread",
       "Completed": false,
       "CreatedAt": "2024-09-07T23:19:14.9894873+05:30",
+      "CompletedAt": null
+   },
+   {
+      "Title": "Eat breakfast",
+      "Completed": false,
+      "CreatedAt": "2024-09-08T12:51:30.8784121+05:30",
       "CompletedAt": null
    }
 ]

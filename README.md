@@ -2,6 +2,8 @@
 
 A simple command-line ToDo application written in Go. This app allows you to manage your ToDo list with features such as adding, deleting, toggling, editing, and listing tasks.
 
+![Screenshot 2024-09-08 125736](https://github.com/user-attachments/assets/0fdcec39-7410-43f0-8168-8675e45bb43c)
+
 
 ## Features
 
